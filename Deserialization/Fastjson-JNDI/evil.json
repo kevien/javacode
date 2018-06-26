@@ -1,0 +1,5 @@
+{
+    "@type":"com.sun.rowset.JdbcRowSetImpl",
+    "dataSourceName":"rmi://127.0.0.1/refObj",
+    "autoCommit":"true"
+  }
