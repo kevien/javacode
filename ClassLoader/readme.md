@@ -4,4 +4,4 @@
 * @frozenme大佬文章中已经介绍的很详细，我这里就不写了，这里只是保存一下自己的测试代码，代码完成了
 1.编译一个java类并重定向输出到内存中。
 2.通过自定义的classloader来加载类对象，并通过反射调用类的main方法。
-![image](https://github.com/kevien/javacode/tree/master/ClassLoader/screenshot/1.png)
+![](https://github.com/kevien/javacode/blob/master/ClassLoader/screenshot/1.png)
