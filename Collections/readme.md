@@ -1,5 +1,5 @@
 #### java工具类collection
-* 官方自带的util工具类，没什么好说的,提供了基础的集合类以及集合操作类。
+* 官方自带的util工具类，提供了基础的集合类以及集合操作类。
 ![](https://github.com/kevien/javacode/blob/master/Collections/pic/hermap.png)
 ![](https://github.com/kevien/javacode/blob/master/Collections/pic/commoncollectionsinterface.png)
 #### apache common-collections

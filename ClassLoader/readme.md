@@ -5,3 +5,5 @@
 * 1.编译一个java类并重定向输出到内存中。
 * 2.通过自定义的classloader来加载类，并通过反射调用类的main方法。
 ![](https://github.com/kevien/javacode/blob/master/ClassLoader/screenshot/1.png)
+#### Reference
+[深入理解Java类加载器](https://blog.csdn.net/javazejian/article/details/73413292)
